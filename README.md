@@ -67,3 +67,14 @@ Save the crontab file with this entry. Now, the script will run daily on its own
 It will save the daily script run results in cron.log file. Through this you troubleshoot for the errors or check if the script is running as intended or not.
 ```
 
+# Contact Me
+
+In case of any query or feedback please contact on following,<p style="line-height: 2;"></p>
+Contact me on Linkedin: www.linkedin.com/in/muhammad-abdullah-32a753208 <p style="line-height: 2;"></p>
+Email at abdullah12987654@gmail.com <p style="line-height: 2;"></p>
+Join my Bug Bounty related Whatsapp group: https://chat.whatsapp.com/LnRy40GlCPMHDuwpYJ288Y
+
+# Final Remarks
+
+This is my very first tool, a small contribution to wonderful Ethical Hackers community. <p style="line-height: 2;"></p> 
+This tool is inspired by jsmon tool by robre; https://github.com/robre/jsmon & by Rhynorater of Critical Thinking - Bug Bounty Podcast
