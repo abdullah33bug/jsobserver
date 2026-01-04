@@ -54,6 +54,11 @@ mkdir result
 ```
 <img width="935" height="132" alt="image" src="https://github.com/user-attachments/assets/0afbd492-a2f0-486c-9029-c53116a7c94b" />
 
+```
+To run this
+python3 jsobserver.py
+```
+
 # Automation
 
 I personally have setup this script in private VPS and added an entry in crontab for daily run of this script at 6am in the morning on its own. Through this, I don't need to run this script manually.
