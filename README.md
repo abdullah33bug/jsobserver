@@ -82,4 +82,4 @@ Join my Bug Bounty related Whatsapp group: https://chat.whatsapp.com/LnRy40GlCPM
 # Final Remarks
 
 This is my very first tool, a small contribution to wonderful Ethical Hackers community. <p style="line-height: 2;"></p> 
-This tool is inspired by jsmon tool by Robre; https://github.com/robre/jsmon 
+This tool is inspired by jsmon tool by Robre; https://github.com/robre/jsmon & by Critical Thinking - Bug Bounty Podcast
